@@ -8,6 +8,8 @@ AllCops:
     - db/schema.rb
     - 'vendor/**/*'
     - bin/bundle
+    - 'node_modules/**/*'
+
   TargetRubyVersion:
     2.6
 
